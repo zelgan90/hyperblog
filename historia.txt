@@ -2,4 +2,4 @@ Esta es mi historia.
 
 Esto es un cambio en mi historia.
 
-Un parraffo más para la historia después de haber hecho git reset --hard. 
+Un parraffo más para la historia después de haber hecho git reset --hard.
