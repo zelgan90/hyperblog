@@ -1,0 +1,4 @@
+# Ignorar todos los archivos JPEG
+*.jpeg
+# Ignorar los archivos ocultos de OS X
+.DS_Store
